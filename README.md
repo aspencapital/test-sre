@@ -10,9 +10,9 @@ You will create an environment and then configure the deployed resources. The de
 Your solution will be evaluated based on these major components.
 * Cloud environment setup 
 * Resource configuration
-* HTTP Accessible Application
+* HTTPS Accessible Application
 * Documentation of the solution
-* **(OPTIONAL)** CI/CD Pipeline (GitHub Actions
+* **(OPTIONAL)** CI/CD Pipeline (GitHub Actions)
 
 ### **(OPTIONAL)** CI/CD Pipeline
 Create a CI/CD pipeline using GitHub actions to complete the following steps whenever there is a commit to the **master** branch of your solution.
